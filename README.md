@@ -7,7 +7,7 @@ The projects includes all the forward and inverse kinematic analysis (position, 
 
 It also includes Trajectory and Path planning algorithms to make a certain shape(as cone and ellipse). In addition to that, a PID controller was also utilized on this robot to control it smoothly. 
 
-You can check the final report and the full project video for more illustrationI
+You can check the final report for more illustration.I
 
 If you need any more assistance do not hesitate to contact me. 
 
@@ -15,4 +15,4 @@ Gasser elazab
 gasser.elazab@gmail.com
 
 Best regards.
-
+~
